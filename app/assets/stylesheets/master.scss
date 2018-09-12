@@ -1,0 +1,27 @@
+@import "bootstrap";
+@import url('https://fonts.googleapis.com/css?family=Ruslan+Display');
+
+.navbar {
+  color: #BBC6C9;
+  box-shadow: 0px 1px 20px #525454;
+  background: image_url('maze2.png')
+}
+
+.navbar-light a.navbar-brand {
+  font-family: 'Ruslan Display', cursive;
+  color: #BBC6C9;
+  font-size: 30px;
+}
+
+body {
+  color: #898D8F;
+  background: image_url('maze.png')
+}
+
+.navbar-nav {
+  color: #BBC6C9;
+}
+
+.navbar-light a.nav-link {
+  color: #BBC6C9;
+}
